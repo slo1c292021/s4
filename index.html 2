@@ -1,0 +1,78 @@
+<Doctype HTML>
+<html lang="pi">
+<head>
+<meta charset="utf-8"/>
+<title>Płetwal Błękitny!</title>
+<meta name="description" content="Serwis prezentuje TOP największych ssaków świata"/>
+<meta name="keywordscontent="TOP zwierzęta,ssaki,przyroda/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome-1"/>
+<style>
+#container
+{
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+#logo
+{
+background-color: black;
+color: white;
+text-align: center;
+padding: 15px;
+}
+#nav
+{
+float: left;
+background-color: lightgray;
+width: 120px:
+min-height: 620px;
+padding: 10px;
+}
+#content
+{
+float: left;
+padding: 20px;
+width: 640px;
+}
+#ad
+{
+float: left;
+width: 160px;
+min-height: 620px;
+padding: 10px;
+background color: lightgray;
+}
+#footer
+{
+clear: both;
+background-color: black;
+color: white;
+text-align: center;
+padding: 20px;
+}
+</style>
+</head>
+<div id="container">
+<div id="logo">
+<h1>Niedźwiedź Polarny!</h1>
+</div>
+<div id="nav">
+</br><a href=""target="_blank">
+</br></a>
+</br><a href=""target="_blank">
+</br></a>
+</br><a href=""target="_blank">
+</br></a>
+</div>
+<div id="content">
+<h2><center>Płetwal błekitny</center></h2>  
+gatunek ssaka z rodziny płetwalowatych. Największe znane zwierzę w historii Ziemi. Maksymalna zarejestrowana długość ciała tego ssaka jest równa 33 metry, ale potwierdzona naukowo to blisko 30 m, a masa ciała 173 tony, potwierdzone naukowo 136 ton. Zaliczany do rodziny płetwalowatych, podrzędu fiszbinowców, rzędu waleni, po raz pierwszy został opisany przez szkockiego lekarza Roberta Sibbalda w 1697 roku. Płetwal błękitny ma dwa otwory nosowe, małą płetwę grzbietową w tylnej części ciała i dużą płetwę ogonową z wyraźnym wcięciem pośrodku. Dawniej w oceanach żyło wiele osobników tego gatunku. Masowe polowania na wieloryby w XX stuleciu sprawiły, że populacja płetwali błękitnych zmniejszyła się wielokrotnie. Jedynym naturalnym wrogiem płetwala jest orka.</br>
+<img src="s3/img/płetwal.jpg" width="720" height="390"/>                 
+</div>
+<div id="ad">
+<img src="nie mam zdjęcia na reklame" />
+</div>   
+<div id="footer">
+Największe ssaki - TOP 3 &copy; Wszelkie prawa zastrzeżone
+</div>     
+                </html>
